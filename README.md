@@ -2,7 +2,7 @@
 
 # 🏠 xez7082 | Smart Home Developer ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3388ff&height=180&section=header&text=Home%20Automation%20&fontSize=70&theme=dark&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3388ff&height=180&section=header&text=Home%20Assistant%20&fontSize=70&theme=dark&fontAlignY=40" width="100%" />
 
 ---
 
