@@ -36,16 +36,6 @@
 
 ---
 
-### 📬 Restons connectés
-<p align="center">
-  <a href="https://votre-lien-ici.com">
-    <img src="https://img.shields.io/badge/Discord-xez7082-5865F2?style=flat-square&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:votre-email@exemple.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-3388ff?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 <p align="right">
   <i>"Making homes smarter, one script at a time."</i> 💡
 </p>
