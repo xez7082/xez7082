@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3388ff&height=200&section=header&text=Home%20Assistant%20&fontSize=70&theme=dark&fontAlignY=40&animation=fadeIn" width="100%" />
 
-# 🌌 Welcome to xez7082's Digital Home
+# 🌌 xez7082 | Digital Architect
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main_Focus-Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white" />
@@ -21,17 +21,21 @@
 
 ---
 
-### 🏠 My Smart Home Universe
-> "Transformer chaque ligne de code en une automatisation domestique intelligente."
+### 🎨 Dashboard & UI Showcase
+> Mon objectif : Créer des interfaces domotiques fluides avec un effet **Glassmorphism**.
 
-- 🤖 **Core :** Home Assistant (Container/OS)
-- ⚡ **Automations :** Scripts complexes en **JavaScript** & Node-RED
-- 🌐 **Protocols :** Zigbee, MQTT, WiFi
-- 🎨 **UI/UX :** Dashboards personnalisés avec CSS/Lovelace
+* 🖼️ **Custom Cards :** Design de cartes personnalisées via `button-card` et `layout-card`.
+* 🎭 **CSS Injection :** Utilisation de `card-mod` pour des effets de flou et de transparence.
+* 📊 **Data Viz :** Graphiques en temps réel avec `apexcharts-card`.
+
+### ⚙️ Automation Logic (The Brain)
+- 🧠 **JavaScript Engine :** Développement de fonctions avancées sous **Node-RED**.
+- 📡 **Sensors :** Gestion optimisée des données Zigbee et MQTT.
+- ⚡ **Performance :** Scripts optimisés pour une latence zéro.
 
 ---
 
-### 📊 GitHub Stats (Glass Style)
+### 📊 GitHub Insights (Transparent Glass)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xez7082&show_icons=true&theme=transparent&bg_color=00000000&title_color=3388ff&text_color=ffffff&icon_color=3388ff&border_color=ffffff33&hide_border=false" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xez7082&layout=compact&theme=transparent&bg_color=00000000&title_color=3388ff&text_color=ffffff&border_color=ffffff33&hide_border=false" width="48%" />
@@ -39,7 +43,7 @@
 
 ---
 
-### 🌙 Connect with me
+### 🌙 Connect with the Smart Home
 <p align="center">
   <a href="https://github.com/xez7082">
     <img src="https://img.shields.io/badge/Discord-xez7082-5865F2?style=flat-square&logo=discord&logoColor=white" />
