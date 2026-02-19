@@ -35,10 +35,14 @@
 
 ---
 
-### 📊 GitHub Insights (Transparent Glass)
+### 📈 Activity & Insights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xez7082&show_icons=true&theme=transparent&bg_color=00000000&title_color=3388ff&text_color=ffffff&icon_color=3388ff&border_color=ffffff33&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xez7082&layout=compact&theme=transparent&bg_color=00000000&title_color=3388ff&text_color=ffffff&border_color=ffffff33&hide_border=false" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xez7082&bg_color=00000000&color=3388ff&line=3388ff&point=ffffff&area=true&hide_border=true" width="100%" />
+
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=xez7082&show_icons=true&theme=transparent&bg_color=00000000&title_color=3388ff&text_color=ffffff&icon_color=3388ff&border_color=ffffff33" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xez7082&layout=compact&theme=transparent&bg_color=00000000&title_color=3388ff&text_color=ffffff&border_color=ffffff33" width="48%" />
 </div>
 
 ---
