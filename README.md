@@ -50,3 +50,13 @@
 <p align="right">
   <i>Dernière mise à jour le 19 février 2026 ❄️</i>
 </p>
+
+---
+
+## 💖 Soutenir mon travail
+
+Si tu trouves mes projets utiles, tu peux me donner un petit coup de pouce via PayPal. Chaque don, même minime, m'aide énormément à continuer !
+
+[![Faire un don avec PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/xez7082)
+
+---
