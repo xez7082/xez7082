@@ -37,21 +37,11 @@
 
 ### 📊 GitHub Insights (Transparent Glass)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xez7082&show_icons=true&theme=transparent&bg_color=00000000&title_color=3388ff&text_color=ffffff&icon_color=3388ff&border_color=ffffff33&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xez7082&show_icons=true&theme=transparent&bg_color=00000000&title_color=3388ff&text_color=ffffff&icon_color=3388ff&border_color=ffffff33&hide_border=false&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xez7082&layout=compact&theme=transparent&bg_color=00000000&title_color=3388ff&text_color=ffffff&border_color=ffffff33&hide_border=false" width="48%" />
 </div>
 
 ---
-
-### 🌙 Connect with the Smart Home
-<p align="center">
-  <a href="https://github.com/xez7082">
-    <img src="https://img.shields.io/badge/Discord-xez7082-5865F2?style=flat-square&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:votre-email@exemple.com">
-    <img src="https://img.shields.io/badge/Contact-Email-3388ff?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 <p align="right">
   <i>Dernière mise à jour le 19 février 2026 ❄️</i>
