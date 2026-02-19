@@ -1,41 +1,54 @@
 <div align="center">
 
-# 🏠 xez7082 | Smart Home Developer ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3388ff&height=200&section=header&text=Home%20Assistant%20&fontSize=70&theme=dark&fontAlignY=40&animation=fadeIn" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3388ff&height=180&section=header&text=Home%20Assistant%20&fontSize=70&theme=dark&fontAlignY=40" width="100%" />
-
----
-
-### 🧊 Tech Stack & Home Automation Enthusiast
+# 🌌 Welcome to xez7082's Digital Home
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dev-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Style-Glass_Theme-rgba(255,255,255,0.1)?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Main_Focus-Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scripting-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
+
+### 🧊 Smart Ecosystem & Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,raspberrypi,docker,vscode,github&theme=dark" />
+</p>
 
 </div>
 
-### 🛠️ Mon Écosystème Tech
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,raspberrypi,vscode,github,docker&theme=dark" />
-</p>
+---
 
-### 🌌 Projets & Domotique
-> 🤖 **Home Assistant :** Création de dashboards personnalisés (YAML & Custom Cards).  
-> 📜 **Scripting :** Automatisations complexes en **JavaScript** (Node-RED / AppDaemon).  
-> 🔌 **Hardware :** Gestion de capteurs Zigbee, ESP32 et intégrations IoT.
+### 🏠 My Smart Home Universe
+> "Transformer chaque ligne de code en une automatisation domestique intelligente."
 
-### 📊 Statistiques GitHub (Style Transparent)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xez7082&show_icons=true&theme=transparent&bg_color=00000000&title_color=3388ff&text_color=ffffff&icon_color=3388ff&border_color=ffffff33" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xez7082&layout=compact&theme=transparent&bg_color=00000000&title_color=3388ff&text_color=ffffff&border_color=ffffff33" width="48%" />
-</p>
+- 🤖 **Core :** Home Assistant (Container/OS)
+- ⚡ **Automations :** Scripts complexes en **JavaScript** & Node-RED
+- 🌐 **Protocols :** Zigbee, MQTT, WiFi
+- 🎨 **UI/UX :** Dashboards personnalisés avec CSS/Lovelace
 
 ---
 
+### 📊 GitHub Stats (Glass Style)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xez7082&show_icons=true&theme=transparent&bg_color=00000000&title_color=3388ff&text_color=ffffff&icon_color=3388ff&border_color=ffffff33&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xez7082&layout=compact&theme=transparent&bg_color=00000000&title_color=3388ff&text_color=ffffff&border_color=ffffff33&hide_border=false" width="48%" />
+</div>
+
+---
+
+### 🌙 Connect with me
+<p align="center">
+  <a href="https://github.com/xez7082">
+    <img src="https://img.shields.io/badge/Discord-xez7082-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:votre-email@exemple.com">
+    <img src="https://img.shields.io/badge/Contact-Email-3388ff?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 <p align="right">
-  <i>"Making homes smarter, one script at a time."</i> 💡
+  <i>Dernière mise à jour le 19 février 2026 ❄️</i>
 </p>
